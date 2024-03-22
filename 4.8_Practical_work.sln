@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 + 2 Matrix", "4.8_Practical_work\1 + 2 Matrix.csproj", "{3F70FA9B-7083-4870-B0E5-6F08F782C3AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 Game of Life", "3 Game of Life\3 Game of Life.csproj", "{A4A9B2D3-B699-4D2A-B2D1-E8ED44F8EC9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F70FA9B-7083-4870-B0E5-6F08F782C3AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F70FA9B-7083-4870-B0E5-6F08F782C3AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F70FA9B-7083-4870-B0E5-6F08F782C3AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F70FA9B-7083-4870-B0E5-6F08F782C3AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4A9B2D3-B699-4D2A-B2D1-E8ED44F8EC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A9B2D3-B699-4D2A-B2D1-E8ED44F8EC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A9B2D3-B699-4D2A-B2D1-E8ED44F8EC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A9B2D3-B699-4D2A-B2D1-E8ED44F8EC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5496C7A0-BC2E-4864-9A03-3ECBD0304FAA}
+	EndGlobalSection
+EndGlobal
